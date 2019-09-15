@@ -21,7 +21,7 @@ basic_data[1..-1].each do |curr_con|
 	organized_data << curr_organizer
 end
 
-organized_data.sort { |a,b| a[:attendance] <=> b[:attendance] }
+organized_data.sort_by { |x| -x[:attendance] }
 
 File.open("map_data.json", "w") do |fout|
    fout.syswrite JSON.pretty_generate(organized_data)
