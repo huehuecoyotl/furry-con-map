@@ -1,0 +1,506 @@
+{
+  "Alamo City Furry Invasion": {
+    "location": {
+      "lat": 29.416667,
+      "lng": -98.5
+    },
+    "attendance": 1006,
+    "date": "#9a00ff"
+  },
+  "Anthro Crossroads East": {
+    "location": {
+      "lat": 35.766667,
+      "lng": -78.633333
+    },
+    "attendance": 282,
+    "date": "#ff5400"
+  },
+  "Anthro New England": {
+    "location": {
+      "lat": 42.373611,
+      "lng": -71.110556
+    },
+    "attendance": 2251,
+    "date": "#ffe700"
+  },
+  "Anthro Northwest": {
+    "location": {
+      "lat": 47.609722,
+      "lng": -122.333056
+    },
+    "attendance": 1051,
+    "date": "#ff00d2"
+  },
+  "Anthro Weekend Utah": {
+    "location": {
+      "lat": 41.078056,
+      "lng": -111.955278
+    },
+    "attendance": 913,
+    "date": "#0051ff"
+  },
+  "Anthrocon": {
+    "location": {
+      "lat": 40.439722,
+      "lng": -79.976389
+    },
+    "attendance": 9358,
+    "date": "#00e8ff"
+  },
+  "Anthroexpo": {
+    "location": {
+      "lat": 35.482222,
+      "lng": -97.535
+    },
+    "attendance": 0,
+    "date": "#ff8a00"
+  },
+  "AnthrOhio": {
+    "location": {
+      "lat": 39.983333,
+      "lng": -82.983333
+    },
+    "attendance": 1261,
+    "date": "#00ff66"
+  },
+  "Aquatifur": {
+    "location": {
+      "lat": 43.6374,
+      "lng": -89.7788
+    },
+    "attendance": 463,
+    "date": "#ff3600"
+  },
+  "Argentina Fur Fiesta": {
+    "location": {
+      "lat": -34.603333,
+      "lng": -58.381667
+    },
+    "attendance": 234,
+    "date": "#00fff9"
+  },
+  "Biggest Little FurCon": {
+    "location": {
+      "lat": 39.527222,
+      "lng": -119.821944
+    },
+    "attendance": 5692,
+    "date": "#00ff49"
+  },
+  "Brasil FurFest": {
+    "location": {
+      "lat": -23.936944,
+      "lng": -46.325
+    },
+    "attendance": 571,
+    "date": "#001bff"
+  },
+  "Camp Feral!": {
+    "location": {
+      "lat": 45.584167,
+      "lng": -78.358333
+    },
+    "attendance": 200,
+    "date": "#0016ff"
+  },
+  "Campfire Tails": {
+    "location": {
+      "lat": 43.719167,
+      "lng": -121.528056
+    },
+    "attendance": 150,
+    "date": "#006eff"
+  },
+  "Canfurence": {
+    "location": {
+      "lat": 45.424722,
+      "lng": -75.695
+    },
+    "attendance": 568,
+    "date": "#0073ff"
+  },
+  "Confuror": {
+    "location": {
+      "lat": 20.676667,
+      "lng": -103.3475
+    },
+    "attendance": 541,
+    "date": "#b700ff"
+  },
+  "Confuzzled": {
+    "location": {
+      "lat": 52.48,
+      "lng": -1.9025
+    },
+    "attendance": 2116,
+    "date": "#00ff6e"
+  },
+  "DenFur": {
+    "location": {
+      "lat": 39.76185,
+      "lng": -104.881105
+    },
+    "attendance": 2735,
+    "date": "#0073ff"
+  },
+  "Eurofurence": {
+    "location": {
+      "lat": 52.516667,
+      "lng": 13.388889
+    },
+    "attendance": 3412,
+    "date": "#0038ff"
+  },
+  "FA:United": {
+    "location": {
+      "lat": 38.971389,
+      "lng": -77.388611
+    },
+    "attendance": 528,
+    "date": "#0016ff"
+  },
+  "Fangcon": {
+    "location": {
+      "lat": 33.653333,
+      "lng": -86.808889
+    },
+    "attendance": 155,
+    "date": "#ff3600"
+  },
+  "Fur Squared": {
+    "location": {
+      "lat": 43.058056,
+      "lng": -88.114722
+    },
+    "attendance": 1120,
+    "date": "#ffe700"
+  },
+  "Fur The 'More": {
+    "location": {
+      "lat": 38.918611,
+      "lng": -77.229722
+    },
+    "attendance": 1487,
+    "date": "#bfff00"
+  },
+  "FurDU": {
+    "location": {
+      "lat": -28.0,
+      "lng": 153.416667
+    },
+    "attendance": 800,
+    "date": "#00ff83"
+  },
+  "Fur-Eh!": {
+    "location": {
+      "lat": 53.533333,
+      "lng": -113.5
+    },
+    "attendance": 867,
+    "date": "#00ffbe"
+  },
+  "Furlandia": {
+    "location": {
+      "lat": 45.52,
+      "lng": -122.681944
+    },
+    "attendance": 1205,
+    "date": "#00ff66"
+  },
+  "Furnal Equinox": {
+    "location": {
+      "lat": 43.741667,
+      "lng": -79.373333
+    },
+    "attendance": 2242,
+    "date": "#bfff00"
+  },
+  "Furpocalypse": {
+    "location": {
+      "lat": 41.609722,
+      "lng": -72.663056
+    },
+    "attendance": 1391,
+    "date": "#f200ff"
+  },
+  "FurReality": {
+    "location": {
+      "lat": 39.247222,
+      "lng": -84.376111
+    },
+    "attendance": 538,
+    "date": "#b700ff"
+  },
+  "Furrnion": {
+    "location": {
+      "lat": 40.383333,
+      "lng": -3.716667
+    },
+    "attendance": 341,
+    "date": "#29ff00"
+  },
+  "Furry Fiesta": {
+    "location": {
+      "lat": 32.779167,
+      "lng": -96.808889
+    },
+    "attendance": 4844,
+    "date": "#85ff00"
+  },
+  "Furry Migration": {
+    "location": {
+      "lat": 44.981944,
+      "lng": -93.269167
+    },
+    "attendance": 1107,
+    "date": "#2000ff"
+  },
+  "Furry Weekend Atlanta": {
+    "location": {
+      "lat": 33.755,
+      "lng": -84.39
+    },
+    "attendance": 5645,
+    "date": "#00ff30"
+  },
+  "Furrydelphia": {
+    "location": {
+      "lat": 39.952778,
+      "lng": -75.163611
+    },
+    "attendance": 1332,
+    "date": "#0038ff"
+  },
+  "Furrypinas": {
+    "location": {
+      "lat": 14.5958,
+      "lng": 120.9772
+    },
+    "attendance": 1542,
+    "date": "#00ff4d"
+  },
+  "Fursonacon": {
+    "location": {
+      "lat": 36.85,
+      "lng": -75.977778
+    },
+    "attendance": 489,
+    "date": "#2000ff"
+  },
+  "Further Confusion": {
+    "location": {
+      "lat": 37.333333,
+      "lng": -121.9
+    },
+    "attendance": 3850,
+    "date": "#ff5800"
+  },
+  "FURUM": {
+    "location": {
+      "lat": 3.097222,
+      "lng": 101.644444
+    },
+    "attendance": 287,
+    "date": "#ff005c"
+  },
+  "Furvana": {
+    "location": {
+      "lat": 46.971667,
+      "lng": -124.154722
+    },
+    "attendance": 0,
+    "date": "#7800ff"
+  },
+  "Furvester": {
+    "location": {
+      "lat": 48.783333,
+      "lng": 9.183333
+    },
+    "attendance": 212,
+    "date": "#ff0400"
+  },
+  "Gateway FurMeet": {
+    "location": {
+      "lat": 38.627222,
+      "lng": -90.197778
+    },
+    "attendance": 484,
+    "date": "#faff00"
+  },
+  "Golden Leaves Con": {
+    "location": {
+      "lat": 46.733333,
+      "lng": 8.2
+    },
+    "attendance": 271,
+    "date": "#f200ff"
+  },
+  "Golden State Fur Con": {
+    "location": {
+      "lat": 33.669444,
+      "lng": -117.823056
+    },
+    "attendance": 1230,
+    "date": "#2dff00"
+  },
+  "Harbour City Fur Con": {
+    "location": {
+      "lat": -33.865,
+      "lng": 151.209444
+    },
+    "attendance": 200,
+    "date": "#0090ff"
+  },
+  "IndyFurCon": {
+    "location": {
+      "lat": 39.768611,
+      "lng": -86.158056
+    },
+    "attendance": 1475,
+    "date": "#001bff"
+  },
+  "Infurnity": {
+    "location": {
+      "lat": 25.066667,
+      "lng": 121.516667
+    },
+    "attendance": 807,
+    "date": "#f200ff"
+  },
+  "Just Fur the Weekend": {
+    "location": {
+      "lat": 51.45,
+      "lng": -2.583333
+    },
+    "attendance": 203,
+    "date": "#81ff00"
+  },
+  "Little Island Fur Con": {
+    "location": {
+      "lat": 1.283333,
+      "lng": 103.833333
+    },
+    "attendance": 150,
+    "date": "#00ffa1"
+  },
+  "Megaplex": {
+    "location": {
+      "lat": 28.54,
+      "lng": -81.38
+    },
+    "attendance": 3617,
+    "date": "#0055ff"
+  },
+  "Mephit FurMeet": {
+    "location": {
+      "lat": 34.960278,
+      "lng": -89.841667
+    },
+    "attendance": 550,
+    "date": "#0300ff"
+  },
+  "Midwest FurFest": {
+    "location": {
+      "lat": 41.990833,
+      "lng": -87.873889
+    },
+    "attendance": 10989,
+    "date": "#ff007a"
+  },
+  "Motor City Furry Con": {
+    "location": {
+      "lat": 42.480278,
+      "lng": -83.4775
+    },
+    "attendance": 1611,
+    "date": "#4aff00"
+  },
+  "NordicFuzzCon": {
+    "location": {
+      "lat": 59.329444,
+      "lng": 18.068611
+    },
+    "attendance": 1149,
+    "date": "#faff00"
+  },
+  "Painted Desert Fur Con": {
+    "location": {
+      "lat": 33.544722,
+      "lng": -111.956389
+    },
+    "attendance": 1135,
+    "date": "#ff8f00"
+  },
+  "PAWcon": {
+    "location": {
+      "lat": 37.333333,
+      "lng": -121.9
+    },
+    "attendance": 723,
+    "date": "#ff00ef"
+  },
+  "Scotiacon": {
+    "location": {
+      "lat": 55.8834,
+      "lng": -3.5157
+    },
+    "attendance": 346,
+    "date": "#ff00ef"
+  },
+  "South Afrifur": {
+    "location": {
+      "lat": -26.1,
+      "lng": 27.766667
+    },
+    "attendance": 43,
+    "date": "#00c6ff"
+  },
+  "Tails and Tornadoes Fur Con": {
+    "location": {
+      "lat": 36.131389,
+      "lng": -95.937222
+    },
+    "attendance": 507,
+    "date": "#0300ff"
+  },
+  "Tiny Paws Con": {
+    "location": {
+      "lat": 41.402222,
+      "lng": -73.471111
+    },
+    "attendance": 273,
+    "date": "#0055ff"
+  },
+  "Vancoufur": {
+    "location": {
+      "lat": 49.166667,
+      "lng": -123.133333
+    },
+    "attendance": 1121,
+    "date": "#ddff00"
+  },
+  "Western Pennsylvania Furry Weekend": {
+    "location": {
+      "lat": 40.56,
+      "lng": -79.96
+    },
+    "attendance": 368,
+    "date": "#9a00ff"
+  },
+  "Wild Nights": {
+    "location": {
+      "lat": 34.918333,
+      "lng": -95.310556
+    },
+    "attendance": 273,
+    "date": "#07ff00"
+  },
+  "WUFF": {
+    "location": {
+      "lat": 50.45,
+      "lng": 30.523333
+    },
+    "attendance": 209,
+    "date": "#00ff2b"
+  }
+}
