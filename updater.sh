@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/ubuntu/data_muncher
+cd /home/ubuntu/map_muncher
 
 git pull
 ruby convert_to_json.rb
