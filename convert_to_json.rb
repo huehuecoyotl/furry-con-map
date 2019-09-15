@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'csv'
 require 'date'
-require 'chroma'
+require 'hsluv'
 require 'json'
 
 basic_data = CSV.read "basic_con_data.csv"
@@ -16,7 +16,7 @@ basic_data[1..-1].each do |curr_con|
 	exact_date = Date.strptime(curr_con[5], "%m/%d/%Y")
 	hue = exact_date.yday / 365.0 * 360.0
 	curr_organizer[:date] = exact_date.strftime "%d %b %Y"
-	curr_organizer[:color] = "hsv(#{hue}, 1, 1)".paint.to_hex
+	curr_organizer[:color] = Hsluv.hsluv_to_hex(hue, 100, 75)
 	curr_organizer[:fclr] = (curr_con[6].to_i == 1)
 	organized_data << curr_organizer
 end
