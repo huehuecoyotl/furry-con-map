@@ -16,6 +16,6 @@ basic_data[1..-1].each do |curr_con|
 	organized_data[curr_con[0]][:date] = "hsv(#{hue}, 1, 1)".paint.to_hex
 end
 
-File.open("map_format.json", "w") do |fout|
+File.open("map_data.json", "w") do |fout|
    fout.syswrite JSON.pretty_generate(organized_data)
 end
