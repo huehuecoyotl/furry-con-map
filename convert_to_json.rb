@@ -15,6 +15,7 @@ basic_data[1..-1].each do |curr_con|
 	hue = exact_date.yday / 365.0 * 360.0
 	organized_data[curr_con[0]][:date] = exact_date.strftime "%d %b %Y"
 	organized_data[curr_con[0]][:color] = "hsv(#{hue}, 1, 1)".paint.to_hex
+	organized_data[curr_con[0]][:fclr] = (curr_con[6].to_i == 1)
 end
 
 File.open("map_data.json", "w") do |fout|
