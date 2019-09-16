@@ -1,4 +1,4 @@
-# furry-con-data
+# furry-con-map
 A tool that creates the JSON behind the furry convention map served at [https://coyo.tl/map](https://coyo.tl/map)
 
 ## Would you like to help?
