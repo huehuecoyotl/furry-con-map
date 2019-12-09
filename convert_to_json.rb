@@ -87,6 +87,14 @@ end
     organized_data[i][:surprise_index] = s * organized_data[i][:attendance] / pop
 end
 
+surprise_rank_data = organized_data.sort { |a, b| a[:surprise_index] <=> b[:surprise_index] }
+
+(0..number_cons-1).each do |i|
+    j = organized_data.index { |e| e[:name] == surprise_rank_data[i][:name] }
+
+    organized_data[j][:surprise_rank] = i + 1
+end
+
 File.open("map_data.json", "w") do |fout|
    fout.syswrite JSON.pretty_generate(organized_data)
 end
