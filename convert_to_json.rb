@@ -36,6 +36,7 @@ organized_data = Array.new
 basic_data[1..-1].each do |curr_con|
     curr_organizer = Hash.new { |hash, key| hash[key] = 0 }
     curr_organizer[:name] = curr_con[0]
+    curr_organizer[:location_name] = curr_con[1]
     curr_organizer[:location] = Hash.new { |hash, key| hash[key] = 0 }
     curr_organizer[:location][:lat] = curr_con[2].to_f
     curr_organizer[:location][:lng] = curr_con[3].to_f
