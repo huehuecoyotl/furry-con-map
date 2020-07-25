@@ -2,7 +2,8 @@
 
 cd /home/ubuntu/map_muncher
 
-if !(git diff --quiet)
+git remote update
+if !(git status -uno | grep -q "Your branch is up to date with 'origin/master'.")
 then
     git pull
     ./convert_to_json.rb
