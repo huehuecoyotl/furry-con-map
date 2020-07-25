@@ -36,6 +36,7 @@ organized_data = Array.new
 basic_data[1..-1].each do |curr_con|
     curr_organizer = Hash.new { |hash, key| hash[key] = 0 }
     curr_organizer[:name] = curr_con[0]
+    curr_organizer[:location_name] = curr_con[1]
     curr_organizer[:location] = Hash.new { |hash, key| hash[key] = 0 }
     curr_organizer[:location][:lat] = curr_con[2].to_f
     curr_organizer[:location][:lng] = curr_con[3].to_f
@@ -84,6 +85,14 @@ end
     pop = organized_data[i][:host_population] * (organized_data[i][:gimmick] ? 10000 : 1)
 
     organized_data[i][:surprise_index] = s * organized_data[i][:attendance] / pop
+end
+
+surprise_rank_data = organized_data.sort { |a, b| -a[:surprise_index] <=> -b[:surprise_index] }
+
+(0..number_cons-1).each do |i|
+    j = organized_data.index { |e| e[:name] == surprise_rank_data[i][:name] }
+
+    organized_data[j][:surprise_rank] = i + 1
 end
 
 File.open("map_data.json", "w") do |fout|
