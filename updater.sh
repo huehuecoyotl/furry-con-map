@@ -8,6 +8,7 @@ then
     git pull
     ./convert_to_json.rb
 fi
+mkdir -p /home/ubuntu/coyotl/source/public/data/
 cp ./map_data.json /home/ubuntu/coyotl/source/public/data/
 
 cd -
