@@ -1,7 +1,7 @@
 "Name","Location","Location Latitude","Location Longitude","Last Attendance","Last Iteration","FCLR","Host Metro Area","Population of Host","Gimmick"
 "Alamo City Furry Invasion","San Antonio, TX, USA",29.4288,-98.4925,1270,"10/10/2021",1,"San Antonio, TX, USA",2518036,0
 "Anthro New England","Boston, MA, USA",42.35108,-71.0703,2570,"2/23/2020",1,"Boston, MA, USA",4628910,0
-"Anthro Northwest","Seattle, WA, USA",47.61485,-122.33441,1612,"11/24/2019",1,"Seattle, WA, USA",3939363,0
+"Anthro Northwest","Seattle, WA, USA",47.61485,-122.33441,137,4"11/21/2021",1,"Seattle, WA, USA",3939363,0
 "Anthro SouthEast","Chattanooga, TN, USA",35.04092,-85.3104,1004,"10/27/2019",0,"Chattanooga, TN, USA",547776,0
 "Anthro Weekend Utah","Layton, UT, USA",41.0706,-111.94663,913,"7/21/2019",1,"Salt Lake City, UT, USA",1203978,0
 "Anthrocon","Pittsburgh, PA, USA",40.44661,-79.99571,9358,"7/7/2019",1,"Pittsburgh, PA, USA",2362453,0
@@ -65,7 +65,7 @@
 "Megaplex","Orlando, FL, USA",28.35982,-81.49339,2889,"8/8/2021",1,"Orlando, FL, USA",2387138,0
 "Melbourne Fur Con","Melbourne, VIC, Australia",-37.80723,144.96146,150,"2/23/2020",0,"Melbourne, VIC, Australia",4936349,0
 "Mephit FurMeet","Olive Branch, MS, USA",34.9670302,-89.7950251,499,"9/5/2021",1,"Memphis, TN, USA",1348260,0
-"Midwest Furfest","Rosemont, IL, USA",41.9809082,-87.8603978,11019,"12/8/2019",1,"Chicago, IL, USA",9533040,0
+"Midwest Furfest","Rosemont, IL, USA",41.9809082,-87.8603978,8900,"12/5/2021",1,"Chicago, IL, USA",9533040,0
 "Motor City Furry Con","Southfield, MI, USA",42.47612,-83.24501,1172,"10/10/2021",1,"Detroit, MI, USA",4292060,0
 "NeonFur","Coolangatta, QLD, Australia",-28.16599,153.54502,286,"11/10/2019",0,"Gold Coast, QLD, Australia",569997,0
 "NordicFuzzCon","Upplands Väsby, Sweden",59.49935,17.92792,1499,"2/23/2020",1,"Stockholm, Sweden",2352549,0
