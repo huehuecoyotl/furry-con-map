@@ -1,7 +1,7 @@
 "Name","Location","Location Latitude","Location Longitude","Last Attendance","Last Iteration","FCLR","Host Metro Area","Population of Host","Gimmick"
 "Alamo City Furry Invasion","San Antonio, TX, USA",29.4288,-98.4925,1270,"10/10/2021",1,"San Antonio, TX, USA",2518036,0
 "Anthro New England","Boston, MA, USA",42.35108,-71.0703,2353,"2/20/2022",1,"Boston, MA, USA",4628910,0
-"Anthro Northwest","Seattle, WA, USA",47.61485,-122.33441,137,4"11/21/2021",1,"Seattle, WA, USA",3939363,0
+"Anthro Northwest","Seattle, WA, USA",47.61485,-122.33441,137,"11/21/2021",1,"Seattle, WA, USA",3939363,0
 "Anthro SouthEast","Chattanooga, TN, USA",35.04092,-85.3104,1004,"10/27/2019",0,"Chattanooga, TN, USA",547776,0
 "Anthro Weekend Utah","Layton, UT, USA",41.0706,-111.94663,913,"7/21/2019",1,"Salt Lake City, UT, USA",1203978,0
 "Anthrocon","Pittsburgh, PA, USA",40.44661,-79.99571,9358,"7/7/2019",1,"Pittsburgh, PA, USA",2362453,0
@@ -25,7 +25,7 @@
 "Eurofurence","Berlin, Germany",52.47306,13.45876,3412,"8/18/2019",1,"Berlin, Germany",6004857,0
 "Fangcon","Birmingham, AL, USA",33.54403,-86.7608,155,"2/9/2020",1,"Birmingham, AL, USA",1151801,0
 "FinFur Animus","Tuusula, Finland",60.41218,25.03733,182,"10/13/2019",0,"Helsinki, Finland",1495271,0
-"Flüüfff ","Brussels, Belgium",50.818036,4.400983,325,"11/14/2021",0,"Brussels, Belgium",2120000,0
+"Flüüfff","Brussels, Belgium",50.818036,4.400983,325,"11/14/2021",0,"Brussels, Belgium",2120000,0
 "Fur Out West","Mandurah, Western Australia, Australia",-32.52481,115.72177,162,"3/13/2022",0,"Mandurah, Western Australia, Australia",96736,0
 "Fur Squared","Brookfield, WI, USA",43.02701,-88.10844,1295,"4/17/2022",1,"Milwaukee, WI, USA",1572245,0
 "Fur The 'More","Tysons Corner, VA, USA",38.93102,-77.24571,1232,"3/6/2022",1,"Washington, DC, USA",6216589,0
