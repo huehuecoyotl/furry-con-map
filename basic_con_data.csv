@@ -1,10 +1,10 @@
 "Name","Location","Location Latitude","Location Longitude","Last Attendance","Last Iteration","FCLR","Host Metro Area","Population of Host","Gimmick"
 "Alamo City Furry Invasion","San Antonio, TX, USA",29.4288,-98.4925,1469,"10/9/2022",1,"San Antonio, TX, USA",2518036,0
-"Anthro New England","Boston, MA, USA",42.35108,-71.0703,2353,"2/20/2022",1,"Boston, MA, USA",4628910,0
-"Anthro Northwest","Seattle, WA, USA",47.61485,-122.33441,1374,"11/21/2021",1,"Seattle, WA, USA",3939363,0
+"Anthro New England","Boston, MA, USA",42.35108,-71.0703,3548,"1/22/2023",1,"Boston, MA, USA",4628910,0
+"Anthro Northwest","Seattle, WA, USA",47.61485,-122.33441,2152,"1/8/2023",1,"Seattle, WA, USA",3939363,0
 "Anthro Weekend Utah","Layton, UT, USA",41.0706,-111.94663,1453,"7/17/2022",1,"Salt Lake City, UT, USA",1203978,0
 "Anthrocon","Pittsburgh, PA, USA",40.44661,-79.99571,9702,"7/3/2022",1,"Pittsburgh, PA, USA",2362453,0
-"Anthroexpo","Oklahoma City, OK, USA",35.52801,-97.56692,669,"1/23/2022",1,"Oklahoma City, OK, USA",1396445,0
+"Anthroexpo","Oklahoma City, OK, USA",35.52801,-97.56692,896,"1/29/2023",1,"Oklahoma City, OK, USA",1396445,0
 "AnthrOhio","Columbus, OH, USA",40.09983,-82.98668,1261,"5/29/2022",1,"Columbus, OH, USA",2078725,0
 "Aquatifur","Wisconsin Dells, WI, USA",43.66518,-89.78405,594,"10/30/2022",1,"Wisconsin Dells, WI, USA",2678,1
 "Argentina Fur Fiesta","Buenos Aires, Argentina",-34.60909,-58.38266,369,"8/14/2022",1,"Buenos Aires, Argentina",15594428,0
@@ -27,7 +27,7 @@
 "Fur Out West","Mandurah, Western Australia, Australia",-32.52481,115.72177,162,"3/13/2022",0,"Mandurah, Western Australia, Australia",96736,0
 "Fur Squared","Brookfield, WI, USA",43.02701,-88.10844,1295,"4/17/2022",1,"Milwaukee, WI, USA",1572245,0
 "Fur The 'More","Tysons Corner, VA, USA",38.93102,-77.24571,1232,"3/6/2022",1,"Washington, DC, USA",6216589,0
-"Furcan","Puebla City, Puebla, Mexico",18.95202,-98.14901,292,"7/21/2019",0,"Puebla City, Puebla, Mexico",3250000,0
+"Furcan","Puebla City, Puebla, Mexico",18.95202,-98.14901,430,"12/18/2022",0,"Puebla City, Puebla, Mexico",3250000,0
 "Furcation","Brean, England, UK",51.2743,-3.01206,1165,"11/14/2022",0,"Burnham-on-Sea, England, UK",19576,1
 "FurDU","Surfer's Paradise, QLD, Australia",-27.99788,153.43006,800,"4/29/2022",1,"Gold Coast, QLD, Australia",569997,0
 "Fur-Eh!","Edmonton, AB, Canada",53.58272,-113.57953,1222,"7/17/2022",1,"Edmonton, AB, Canada",1321426,0
@@ -43,32 +43,31 @@
 "Furrydelphia","King of Prussia, PA, USA",40.09668,-75.41571,2281,"8/28/2022",1,"Philadelphia, PA, USA",6096120,0
 "FurryPinas","Manila, Philippines",14.57466,121.0579,1700,"6/9/2019",1,"Manila, Philippines",12877253,0
 "Fursonacon","Virginia Beach, VA, USA",36.8434,-76.18004,731,"9/11/2022",1,"Virginia Beach, VA, USA",1725246,0
-"Further Confusion","San Jose, CA, USA",37.32908,-121.88877,4630,"1/20/2020",1,"Bay Area, CA, USA",9666055,0
-"Furs Upon Malaysia","Petaling Jaya, Malaysia",3.10393,101.64028,437,"12/15/2019",1,"Kuala Lumpur, Malaysia",7200000,0
+"Further Confusion","San Jose, CA, USA",37.32908,-121.88877,5388,"1/16/2023",1,"Bay Area, CA, USA",9666055,0
+"Furs Upon Malaysia","Petaling Jaya, Malaysia",3.10393,101.64028,276,"12/11/2022",1,"Kuala Lumpur, Malaysia",7200000,0
 "Furvana","Ocean Shores, WA, USA",47.00727,-124.16244,534,"9/12/2021",1,"Ocean Shores, WA, USA",5569,0
-"Furvester","Stuttgart, Germany",48.49953,9.15019,212,"1/1/2019",1,"Stuttgart, Germany",5300000,0
+"Furvester","Stuttgart, Germany",48.49953,9.15019,475,"1/1/2023",1,"Stuttgart, Germany",5300000,0
 "Futerkon","Bocheniec, Poland",50.79417,20.32069,126,"7/17/2022",0,"Małogoszcz, Poland",4022,0
 "Gateway FurMeet","St. Louis, MO, USA",38.69378,-90.44919,348,"3/13/2022",1,"St. Louis, MO, USA",2807338,0
 "Gdakon","Rumia, Poland",54.57279,18.38327,373,"3/13/2022",0,"Gdańsk, Poland",1080700,0
 "Golden Leaves Con","Hasliberg-Reuti, Switzerland",46.73313,8.20817,301,"10/30/2022",1,"Hasliberg-Reuti, Switzerland",1164,0
 "Golden State Fur Con","Irvine, CA, USA",33.67467,-117.86062,1758,"4/10/2022",0,"Los Angeles, CA, USA",13131431,0
-"Indy Fur Con","Indianapolis, IN, USA",39.79725,-86.04112,1306,"8/22/2021",1,"Indianapolis, IN, USA",2004230,0
-"Infurnity","Taipei, Taiwan",25.18214,121.41566,1588,"10/30/2021",1,"Taipei, Taiwan",8605000,0
-"Japan Meeting of Furries","Toyohashi, Aichi, Japan",34.757049561,137.392227173,556,"1/9/2022",0,"Toyohashi, Aichi, Japan",373811,0
+"Indy Fur Con","Indianapolis, IN, USA",39.79725,-86.04112,1306,"8/28/2022",1,"Indianapolis, IN, USA",2004230,0
+"Infurnity","Taipei, Taiwan",25.18214,121.41566,1588,"10/30/2022",1,"Taipei, Taiwan",8605000,0
+"Japan Meeting of Furries","Toyohashi, Aichi, Japan",34.757049561,137.392227173,1423,"1/8/2023",0,"Toyohashi, Aichi, Japan",373811,0
 "Kemocon","Kawasaki, Kanagawa, Japan",35.466690063,139.621841431,454,"11/6/2022",0,"Tokyo Metropolis, Japan",37832892,0
 "Little Island Fur Con","Singapore",1.33154,103.73934,150,"6/9/2019",1,"Singapore",5638700,0
 "Megaplex","Orlando, FL, USA",28.35982,-81.49339,4662,"8/7/2022",1,"Orlando, FL, USA",2387138,0
-"Melbourne Fur Con","Melbourne, VIC, Australia",-37.80723,144.96146,150,"2/23/2020",0,"Melbourne, VIC, Australia",4936349,0
+"Melbourne Fur Con","Melbourne, VIC, Australia",-37.80723,144.96146,150,"2/26/2022",0,"Melbourne, VIC, Australia",4936349,0
 "Mephit FurMeet","Olive Branch, MS, USA",34.9670302,-89.7950251,588,"9/4/2022",1,"Memphis, TN, USA",1348260,0
 "Midwest Furfest","Rosemont, IL, USA",41.9809082,-87.8603978,13641,"12/4/2022",1,"Chicago, IL, USA",9533040,0
 "Motor City Furry Con","Southfield, MI, USA",42.47612,-83.24501,1361,"3/27/2022",1,"Detroit, MI, USA",4292060,0
-"NordicFuzzCon","Malmö, Sweden",55.607841,12.994480,1499,"2/23/2020",1,"Malmö, Sweden",749427,0
-"Painted Desert Fur Con","Paradise Valley, AZ, USA",33.54134,-111.92806,916,"1/2/2022",0,"Phoenix, AZ, USA",4857962,0
+"NordicFuzzCon","Malmö, Sweden",55.607841,12.994480,2349,"2/26/2023",1,"Malmö, Sweden",749427,0
+"Painted Desert Fur Con","Paradise Valley, AZ, USA",33.54134,-111.92806,1047,"1/1/2023",0,"Phoenix, AZ, USA",4857962,0
 "PAWAI","Jakarta, Indonesia",-6.21532,106.84348,120,"7/27/2019",0,"Jakarta, Indonesia",31689592,0
 "PAWcon","San Jose, CA, USA",37.37169,-121.92258,926,"11/6/2022",1,"Bay Area, CA, USA",9666055,0
 "Rusfurence","Serpukhov, Russia",54.96089,37.460372,256,"9/1/2019",0,"Serpukhov, Russia",127041,0
-"Scotiacon","Livingston, Scotland, UK",55.886378,-3.504046,482,"2/14/2022",1,"Livingston, Scotland, UK",56269,0
-"Sin City Murr Con","Las Vegas, NV, USA",36.127628,-115.153870,100,"2/6/2022",0,"Las Vegas, NV, USA",2265461,0
+"Scotiacon","Livingston, Scotland, UK",55.886378,-3.504046,482,"2/6/2023",1,"Livingston, Scotland, UK",56269,0
 "South Afrifur","Krugersdorp, South Africa",-25.968117,27.8656,43,"7/11/2022",1,"Johannesburg, South Africa",10500500,0
 "Super Furry Fusion","Shanghai, China",31.279757,121.430324,2000,"8/7/2022",0,"Shanghai, China",24237800,0
 "Tails and Tornadoes Fur Con","Tulsa, OK, USA",36.059771,-95.962019,860,"9/4/2022",1,"Tulsa, OK, USA",991561,0
