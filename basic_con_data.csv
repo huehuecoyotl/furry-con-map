@@ -1,14 +1,14 @@
 "Name","Location","Location Latitude","Location Longitude","Last Attendance","Last Iteration","FCLR","Host Metro Area","Population of Host","Gimmick"
-"Alamo City Furry Invasion","San Antonio, TX, USA",29.4288,-98.4925,1469,"10/9/2022",1,"San Antonio, TX, USA",2518036,0
+"Alamo City Furry Invasion","San Antonio, TX, USA",29.4288,-98.4925,1671,"10/15/2023",1,"San Antonio, TX, USA",2518036,0
 "Anthro New England","Boston, MA, USA",42.35108,-71.0703,3548,"1/22/2023",1,"Boston, MA, USA",4628910,0
 "Anthro Northwest","Seattle, WA, USA",47.61485,-122.33441,2152,"1/8/2023",1,"Seattle, WA, USA",3939363,0
 "Anthro Weekend Utah","Layton, UT, USA",41.0706,-111.94663,1828,"7/16/2023",1,"Salt Lake City, UT, USA",1203978,0
 "Anthrocon","Pittsburgh, PA, USA",40.44661,-79.99571,13644,"7/2/2023",1,"Pittsburgh, PA, USA",2362453,0
 "AnthroExpo","Oklahoma City, OK, USA",35.52801,-97.56692,896,"1/29/2023",1,"Oklahoma City, OK, USA",1396445,0
 "AnthrOhio","Columbus, OH, USA",40.09983,-82.98668,1255,"5/28/2023",1,"Columbus, OH, USA",2078725,0
-"Aquatifur","Wisconsin Dells, WI, USA",43.66518,-89.78405,594,"10/30/2022",1,"Wisconsin Dells, WI, USA",2678,1
+"Aquatifur","Wisconsin Dells, WI, USA",43.66518,-89.78405,560,"10/29/2023",1,"Wisconsin Dells, WI, USA",2678,1
 "Argentina Fur Fiesta","Buenos Aires, Argentina",-34.60909,-58.38266,427,"6/19/2023",1,"Buenos Aires, Argentina",15594428,0
-"Arizona Fur Con","Mesa, AZ, USA",33.42121,-111.83118,912,"10/16/2022",0,"Phoenix, AZ, USA",4857962,0
+"Arizona Fur Con","Mesa, AZ, USA",33.42121,-111.83118,1387,"10/15/2023",0,"Phoenix, AZ, USA",4857962,0
 "Biggest Little Fur Con","Reno, NV, USA",39.52749,-119.79262,5234,"6/5/2022",1,"Reno, NV, USA",425417,0
 "Big Sky Camp Paw","Helena, MT, USA",46.611689,-111.653223,75,"9/5/2023",0,"Helena, MT, USA",83058,1
 "Brasil FurFest","Santos, Brazil",-23.9707,-46.3292,911,"7/16/2023",1,"Santos, Brazil",433966,0
@@ -18,34 +18,34 @@
 "CanthroFur","Saint-Sauves-d'Auvergne, France",45.606080,2.687080,83,"1/9/2023",0,"Saint-Sauves-d'Auvergne, France",1127,1
 "CastleCon","Horb am Neckar, Germany",48.44885,8.67317,74,"6/18/2023",0,"Horb am Neckar, Germany",25135,1
 "ČeSFuR","Bystřice nad Pernštejnem, Czech Republic",49.52341,16.26038,277,"7/6/2023",0,"Bystřice nad Pernštejnem, Czech Republic",8110,0
-"Confuror","Guadalajara, Jalisco, Mexico",20.673366,-103.388289,1861,"10/23/2022",1,"Guadalajara, Jalisco, Mexico",5002466,0
+"Confuror","Guadalajara, Jalisco, Mexico",20.673366,-103.388289,1964,"10/23/2022",1,"Guadalajara, Jalisco, Mexico",5002466,0
 "ConFuzzled","Birmingham, England, UK",52.4522,-1.71724,2661,"5/30/2023",1,"Birmingham, England, UK",4332629,0
 "DenFur","Denver, CO, USA",39.77192,-104.80773,4232,"8/20/2023",1,"Denver, CO, USA",2932415,0
 "Dutch FurCon","Groesbeek, The Netherlands",51.78539,5.93863,128,"7/17/2023",0,"Berg en Dal, The Netherlands",34714,0
 "EAST","Suhl, Germany",50.61702,10.7233,644,"10/17/2023",0,"Suhl, Germany",37321,0
 "Eurofurence","Berlin, Germany",52.47306,13.45876,3408,"9/7/2023",1,"Berlin, Germany",6004857,0
 "Fauntastic","Montalieu-Vercieu, France",45.826928,5.419991,338,"4/11/2023",0,"Montalieu-Vercieu, France",3185,0
-"FinFur Animus","Tuusula, Finland",60.41218,25.03733,249,"7/3/2022",0,"Helsinki, Finland",1495271,0
+"FinFur Animus","Tuusula, Finland",60.41218,25.03733,238,"10/1/2023",0,"Helsinki, Finland",1495271,0
 "Flüüfff","Brussels, Belgium",50.818036,4.400983,325,"11/13/2022",1,"Brussels, Belgium",2120000,0
 "Fur Out West","Mandurah, Western Australia, Australia",-32.52481,115.72177,162,"7/23/2023",0,"Mandurah, Western Australia, Australia",96736,0
-"Fur Squared","Brookfield, WI, USA",43.02701,-88.10844,1441,"4/9/2023",1,"Milwaukee, WI, USA",1572245,0
+"Fur Squared","Milwaukee, WI, USA",43.038399,-87.917633,1441,"4/9/2023",1,"Milwaukee, WI, USA",1572245,0
 "Fur The 'More","Tysons Corner, VA, USA",38.93102,-77.24571,1620,"3/12/2023",1,"Washington, DC, USA",6216589,0
 "FurCalvaDance","Saint-Martin-des-Entrées, France",49.266180,-0.673270,151,"2/19/2023",0,"Bayeux, France",73516,0
 "FurCan","Puebla City, Puebla, Mexico",18.95202,-98.14901,430,"12/18/2022",0,"Puebla City, Puebla, Mexico",3250000,0
-"Furcation","Brean, England, UK",51.2743,-3.01206,1165,"11/14/2022",0,"Burnham-on-Sea, England, UK",19576,1
+"Furcation","Brean, England, UK",51.2743,-3.01206,592,"11/19/2023",0,"Burnham-on-Sea, England, UK",19576,1
 "Furcationland","Portland, ME, USA",43.653549,-70.260628,822,"4/16/2023",0,"Portland, ME, USA",556893,0
 "FurCoNZ","Ōtaki, New Zealand",-40.725910,175.172488,181,"5/23/2022",0,"Ōtaki, New Zealand",3910,1
-"Furdance Budapest","Budapest, Hungary",47.5564641,19.1089368,196,"9/18/2022",0,"Budapest, Hungary",3011598,0
+"Furdance Budapest","Budapest, Hungary",47.5564641,19.1089368,230,"10/1/2023",0,"Budapest, Hungary",3011598,0
 "FurDU","Surfer's Paradise, QLD, Australia",-27.99788,153.43006,1219,"5/14/2023",1,"Gold Coast, QLD, Australia",569997,0
 "Fur-Eh!","Edmonton, AB, Canada",53.58272,-113.57953,1594,"7/9/2023",1,"Edmonton, AB, Canada",1321426,0
 "Furgether","Laussa, Austria",47.960966,14.438922,100,"9/18/2023",0,"Laussa, Austria",1227,1
 "Furizon","Cavalese, Italy",46.291203,11.457163,214,"6/2/2023",0,"Cavalese, Italy",4004,0
-"FurJAM","Sydney, NSW, Australia",-33.865,151.209444,327,"9/11/2022",0,"Sydney, NSW, Australia",5230330,0
+"FurJAM","Sydney, NSW, Australia",-33.865,151.209444,327,"10/1/2023",0,"Sydney, NSW, Australia",5230330,0
 "Furlandia","Portland, OR, USA",45.58316,-122.57484,1009,"5/28/2023",1,"Portland, OR, USA",2478810,0
 "Furnal Equinox","Toronto, ON, Canada",43.64101,-79.37619,3338,"3/19/2023",1,"Toronto, ON, Canada",5928040,0
-"Furpocalypse","Stamford, CT, USA",41.06925,-73.5479,1627,"10/30/2022",1,"Stamford, CT, USA",916829,0
+"Furpocalypse","Stamford, CT, USA",41.06925,-73.5479,1875,"10/29/2023",1,"Stamford, CT, USA",916829,0
 "Furrnion","Madrid, Spain",40.49488,-3.55207,298,"3/26/2023",1,"Madrid, Spain",6791667,0
-"Furry BlackLight","Roissy-en-France, France",48.99069,2.51545,655,"11/1/2022",0,"Paris, France",12532901,0
+"Furry BlackLight","Roissy-en-France, France",48.99069,2.51545,750,"11/5/2023",0,"Paris, France",12532901,0
 "Furry Fiesta","Dallas, TX, USA",32.77728,-96.8094,7336,"3/19/2023",1,"Dallas, TX, USA",7233323,0
 "Furry Migration","Minneapolis, MN, USA",44.97081,-93.27823,1789,"9/10/2023",1,"Minneapolis, MN, USA",3629190,0
 "Furry Weekend Atlanta","Atlanta, GA, USA",33.76158,-84.38496,10328,"5/14/2023",1,"Atlanta, GA, USA",5949951,0
@@ -59,13 +59,13 @@
 "Futerkon","Bocheniec, Poland",50.79417,20.32069,126,"8/20/2023",0,"Małogoszcz, Poland",4022,0
 "Gateway FurMeet","St. Louis, MO, USA",38.69378,-90.44919,744,"3/12/2023",1,"St. Louis, MO, USA",2807338,0
 "Gdakon","Rumia, Poland",54.57279,18.38327,460,"3/5/2023",0,"Gdańsk, Poland",1080700,0
-"Golden Leaves Con","Hasliberg-Reuti, Switzerland",46.73313,8.20817,301,"10/30/2022",1,"Hasliberg-Reuti, Switzerland",1164,0
+"Golden Leaves Con","Hasliberg-Reuti, Switzerland",46.73313,8.20817,289,"10/29/2023",1,"Hasliberg-Reuti, Switzerland",1164,0
 "Golden State Fur Con","Irvine, CA, USA",33.67467,-117.86062,1815,"4/9/2023",1,"Los Angeles, CA, USA",13131431,0
-"H-Con","Erbach, Germany",49.640163,9.046344,60,"10/4/2022",0,"Erbach, Germany",13818,1
+"H-Con","Erbach, Germany",49.640163,9.046344,60,"10/8/2023",0,"Erbach, Germany",13818,1
 "Indy Fur Con","Indianapolis, IN, USA",39.79725,-86.04112,1722,"8/27/2023",1,"Indianapolis, IN, USA",2004230,0
-"Infurnity","Taipei, Taiwan",25.18214,121.41566,1588,"10/30/2022",1,"Taipei, Taiwan",8605000,0
+"Infurnity","Taipei, Taiwan",25.18214,121.41566,2354,"10/29/2023",1,"Taipei, Taiwan",8605000,0
 "Japan Meeting of Furries","Toyohashi, Aichi, Japan",34.757049561,137.392227173,1423,"1/8/2023",0,"Toyohashi, Aichi, Japan",373811,0
-"Kemocon","Kawasaki, Kanagawa, Japan",35.466690063,139.621841431,454,"11/6/2022",0,"Tokyo Metropolis, Japan",37832892,0
+"Kemocon","Kawasaki, Kanagawa, Japan",35.466690063,139.621841431,599,"10/29/2023",0,"Tokyo Metropolis, Japan",37832892,0
 "KRAZ","Boskovice, Czech Republic",49.494742,16.685719,102,"5/1/2023",0,"Boskovice, Czech Republic",11661,1
 "Las Vegas Fur Con","Las Vegas, NV, USA",36.107581,-115.156337,1483,"4/16/2023",0,"Las Vegas, NV, USA",2265461,0
 "Little Island Fur Con","Singapore",1.33154,103.73934,150,"6/11/2023",1,"Singapore",5638700,0
@@ -78,7 +78,7 @@
 "Örli Försztivál","Gárdony, Hungary",47.1907727,18.5870896,131,"6/18/2023",0,"Gárdony, Hungary",10855,1
 "Painted Desert Fur Con","Paradise Valley, AZ, USA",33.54134,-111.92806,1047,"1/1/2023",1,"Phoenix, AZ, USA",4857962,0
 "PAWAI","Jakarta, Indonesia",-6.21532,106.84348,120,"6/25/2023",0,"Jakarta, Indonesia",31689592,0
-"PAWcon","San Jose, CA, USA",37.37169,-121.92258,926,"11/6/2022",1,"Bay Area, CA, USA",9666055,0
+"PAWcon","San Jose, CA, USA",37.37169,-121.92258,1455,"11/5/2023",1,"Bay Area, CA, USA",9666055,0
 "Scotiacon","Livingston, Scotland, UK",55.886378,-3.504046,482,"2/6/2023",1,"Livingston, Scotland, UK",56269,0
 "South Afrifur","Krugersdorp, South Africa",-25.968117,27.8656,43,"7/10/2023",1,"Johannesburg, South Africa",10500500,0
 "Southern Paws","Amberley, New Zealand",-43.070412,172.743236,74,"5/14/2023",0,"Amberley, New Zealand",2340,1
@@ -88,7 +88,7 @@
 "Thaitails","Bangkok, Thailand",13.746524,100.540742,385,"3/26/2023",0,"Bangkok, Thailand",14626225,0
 "Vancoufur","Richmond, BC, Canada",49.170676,-123.145163,1528,"3/5/2023",1,"Vancouver, BC, Canada",2463431,0
 "West Aussie Fur Frenzy","Perth, Western Australia, Australia",-31.948394,115.858395,100,"9/10/2023",1,"Perth, Western Australia, Australia",2059484,0
-"Western Pennsylvania Furry Weekend","Allison Park, PA, USA",40.617063,-80.016978,455,"10/9/2022",1,"Pittsburgh, PA, USA",2362453,0
-"Wild North","Haltwhistle, England, UK",54.943,-2.51,45,"9/26/2022",0,"Haltwhistle, England, UK",3811,1
+"Western Pennsylvania Furry Weekend","Allison Park, PA, USA",40.617063,-80.016978,400,"10/8/2023",1,"Pittsburgh, PA, USA",2362453,0
+"Wild North","Haltwhistle, England, UK",54.943,-2.51,60,"9/25/2023",0,"Haltwhistle, England, UK",3811,1
 "Wild Prairie Fur Con","Winnipeg, MB, Canada",49.893728,-97.142509,326,"8/13/2023",1,"Winnipeg, MB, Canada",778489,0
 "Wild Times","Osterholz-Scharmbeck, Germany",53.268003,8.718703,72,"8/30/2023",0,"Osterholz-Scharmbeck, Germany",30438,0
