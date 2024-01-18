@@ -48,6 +48,7 @@ basic_data[1..-1].each do |curr_con|
     curr_organizer[:fclr] = (curr_con[6].to_i == 1)
     curr_organizer[:host_population] = curr_con[8].to_i
     curr_organizer[:gimmick] = (curr_con[9].to_i == 1)
+    curr_organizer[:website] = curr_con[10]
     organized_data << curr_organizer
 end
 
