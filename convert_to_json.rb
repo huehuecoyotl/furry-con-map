@@ -3,7 +3,6 @@
 require 'rubygems'
 require 'csv'
 require 'date'
-require 'hsluv'
 require 'json'
 
 ehcm = 20037580.0 # Earth half-circumference in meters
@@ -41,14 +40,20 @@ basic_data[1..-1].each do |curr_con|
     curr_organizer[:location][:lat] = curr_con[2].to_f
     curr_organizer[:location][:lng] = curr_con[3].to_f
     curr_organizer[:attendance] = curr_con[4].to_i
-    exact_date = Date.strptime(curr_con[5], "%m/%d/%Y")
-    hue = exact_date.yday / 365.0 * 360.0
-    curr_organizer[:date] = exact_date.strftime "%d %b %Y"
-    curr_organizer[:color] = Hsluv.hsluv_to_hex(hue, 100, 65)
-    curr_organizer[:fclr] = (curr_con[6].to_i == 1)
-    curr_organizer[:host_population] = curr_con[8].to_i
-    curr_organizer[:gimmick] = (curr_con[9].to_i == 1)
-    curr_organizer[:website] = curr_con[10]
+    if Date.strptime(curr_con[5], "%m/%d/%Y") rescue nil
+        start_date = Date.strptime(curr_con[5], "%m/%d/%Y")
+        curr_organizer[:start] = start_date.strftime "%d %b %Y"
+        curr_organizer[:exact_date] = true
+    else
+        curr_organizer[:start] = curr_con[5]
+        curr_organizer[:exact_date] = false
+    end
+    end_date = Date.strptime(curr_con[6], "%m/%d/%Y")
+    curr_organizer[:end] = start_date.strftime "%d %b %Y"
+    curr_organizer[:fclr] = (curr_con[7].to_i == 1)
+    curr_organizer[:host_population] = curr_con[9].to_i
+    curr_organizer[:gimmick] = (curr_con[10].to_i == 1)
+    curr_organizer[:website] = curr_con[11]
     organized_data << curr_organizer
 end
 
@@ -60,7 +65,7 @@ number_cons = organized_data.count
 (0..number_cons-1).each do |i|
     (0..i-1).each do |j|
         geo = calc_geo_distance(organized_data[i][:location], organized_data[j][:location])
-        time = calc_time_distance(Date.strptime(organized_data[i][:date], "%d %b %Y"), Date.strptime(organized_data[j][:date], "%d %b %Y"))
+        time = calc_time_distance(Date.strptime(organized_data[i][:end], "%d %b %Y"), Date.strptime(organized_data[j][:end], "%d %b %Y"))
         if organized_data[i][:attendance] > 0 and organized_data[j][:attendance] > 0 and i != j
             geo_distance_matrix[i][j]  = (geo + 1000.0) / (ehcm + 1000.0) * organized_data[i][:attendance] / organized_data[j][:attendance]
             geo_distance_matrix[j][i]  = (geo + 1000.0) / (ehcm + 1000.0) * organized_data[j][:attendance] / organized_data[i][:attendance]
