@@ -40,7 +40,7 @@ basic_data[1..-1].each do |curr_con|
     curr_organizer[:location][:lat] = curr_con[2].to_f
     curr_organizer[:location][:lng] = curr_con[3].to_f
     curr_organizer[:attendance] = curr_con[4].to_i
-    if Date.strptime(curr_con[5], "%m/%d/%Y") rescue nil
+    if (Date.strptime(curr_con[5], "%m/%d/%Y") rescue nil)
         start_date = Date.strptime(curr_con[5], "%m/%d/%Y")
         curr_organizer[:start] = start_date.strftime "%d %b %Y"
         curr_organizer[:exact_date] = true
@@ -49,7 +49,7 @@ basic_data[1..-1].each do |curr_con|
         curr_organizer[:exact_date] = false
     end
     end_date = Date.strptime(curr_con[6], "%m/%d/%Y")
-    curr_organizer[:end] = start_date.strftime "%d %b %Y"
+    curr_organizer[:end] = end_date.strftime "%d %b %Y"
     curr_organizer[:fclr] = (curr_con[7].to_i == 1)
     curr_organizer[:host_population] = curr_con[9].to_i
     curr_organizer[:gimmick] = (curr_con[10].to_i == 1)
