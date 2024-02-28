@@ -1,12 +1,12 @@
 Name,Location,Location Latitude,Location Longitude,Last Attendance,Next Start Date,Next End Date,FCLR,Host Metro Area,Population of Host,Gimmick,Website
 Alamo City Furry Invasion,"San Antonio, TX, USA",29.4288,-98.4925,1671,10/11/2024,10/13/2024,1,"San Antonio, TX, USA",2518036,0,https://www.furryinvasion.org/
-Anthro New England,"Boston, MA, USA",42.35108,-71.0703,3548,1/18/2024,1/21/2024,1,"Boston, MA, USA",4628910,0,https://www.anthronewengland.com/
+Anthro New England,"Boston, MA, USA",42.35108,-71.0703,4482,1/16/2025,1/19/2025,1,"Boston, MA, USA",4628910,0,https://www.anthronewengland.com/
 Anthro Northwest,"Seattle, WA, USA",47.61485,-122.33441,2402,January 2025 (expected),1/5/2025,1,"Seattle, WA, USA",3939363,0,https://anthronw.com/
 Anthro Weekend Utah,"Layton, UT, USA",41.0706,-111.94663,1828,7/19/2024,7/21/2024,1,"Salt Lake City, UT, USA",1203978,0,https://www.anthroweekendutah.org/
 Anthrocon,"Pittsburgh, PA, USA",40.44661,-79.99571,13644,7/4/2024,7/7/2024,1,"Pittsburgh, PA, USA",2362453,0,https://www.anthrocon.org/
-AnthroExpo,"Oklahoma City, OK, USA",35.52801,-97.56692,896,2/1/2024,2/4/2024,1,"Oklahoma City, OK, USA",1396445,0,https://www.anthroexpo.net/
+AnthroExpo,"Oklahoma City, OK, USA",35.52801,-97.56692,1094,1/30/2025,2/2/2025,1,"Oklahoma City, OK, USA",1396445,0,https://www.anthroexpo.net/
 AnthrOhio,"Columbus, OH, USA",40.09983,-82.98668,1255,5/24/2024,5/26/2024,1,"Columbus, OH, USA",2078725,0,https://anthrohio.org/
-AnthroIrish,"Cork, Ireland",51.89797,-8.47061,131,August 2024 (Expected),08/10/2024,1,"Cork, Ireland",224004,0,https://linktr.ee/anthroirish
+AnthroIrish,"Cork, Ireland",51.8986264,-8.4676017,131,August 2024 (Expected),8/4/2024,0,"Cork, Ireland",305222,0,https://linktr.ee/anthroirish
 Aquatifur,"Wisconsin Dells, WI, USA",43.66518,-89.78405,560,October 2024 (expected),10/27/2024,1,"Wisconsin Dells, WI, USA",2678,1,https://aquatifur.com/
 Argentina Fur Fiesta,"Buenos Aires, Argentina",-34.60909,-58.38266,427,June 2024 (expected),6/17/2024,1,"Buenos Aires, Argentina",15594428,0,https://new.furfiesta.com/
 Arizona Fur Con,"Mesa, AZ, USA",33.42121,-111.83118,1387,October 2024 (expected),10/13/2024,0,"Phoenix, AZ, USA",4857962,0,https://www.arizonafurcon.com/
@@ -16,7 +16,7 @@ Camp Feral!,"Algonquin Provincial Park, ON, Canada",45.595783,-78.730946,220,Aug
 Camp Paw,"Helena, MT, USA",46.611689,-111.653223,75,September 2024 (expected),9/3/2024,0,"Helena, MT, USA",83058,1,https://www.camppaw.org/
 Campfire Tails,"La Pine, OR, USA",43.72887,-121.421328,150,August 2024 (expected),8/19/2024,1,"La Pine, OR, USA",1653,1,https://campfiretails.org/
 Canfurence,"Kanata, ON, Canada",45.34265,-75.91205,1107,August 2024 (expected),8/4/2024,1,"Ottawa, ON, Canada",1323783,0,https://www.canfurence.ca/
-CanthroFur,"Saint-Sauves-d'Auvergne, France",45.60608,2.68708,186,1/19/2024,1/22/2024,0,"Saint-Sauves-d'Auvergne, France",1127,1,https://www.canthrofur.org/
+CanthroFur,"Saint-Sauves-d'Auvergne, France",45.60608,2.68708,184,January 2025 (expected,1/20/2025,0,"Saint-Sauves-d'Auvergne, France",1127,1,https://www.canthrofur.org/
 CastleCon,"Horb am Neckar, Germany",48.44885,8.67317,74,6/14/2024,6/16/2024,0,"Horb am Neckar, Germany",25135,1,https://castlecon.de/
 ČeSFuR,"Bystřice nad Pernštejnem, Czech Republic",49.52341,16.26038,277,6/30/2024,7/5/2024,0,"Bystřice nad Pernštejnem, Czech Republic",8110,0,https://cesfur.org/
 Confuror,"Guadalajara, Jalisco, Mexico",20.673366,-103.388289,1964,October 2024 (expected),10/20/2024,1,"Guadalajara, Jalisco, Mexico",5002466,0,https://confuror.org/
@@ -52,14 +52,14 @@ Furry Weekend Atlanta,"Atlanta, GA, USA",33.76158,-84.38496,10328,5/9/2024,5/12/
 Furrydelphia,"Philadelphia, PA, USA",39.95729,-75.1673,2510,9/8/2024,9/11/2024,1,"Philadelphia, PA, USA",6096120,0,https://www.furrydelphia.org/
 FurryJoA,"Goyang, South Korea",37.665087,126.742267,1177,2/24/2024,2/25/2024,0,"Seoul, South Korea",26037000,0,https://www.furryjoa.com/
 Fursonacon,"Virginia Beach, VA, USA",36.8434,-76.18004,957,9/29/2024,10/1/2024,1,"Virginia Beach, VA, USA",1725246,0,https://fursonacon.com/
-FurSquared,"Milwaukee, WI, USA",43.038399,-87.917633,1441,2/22/2024,2/25/2024,1,"Milwaukee, WI, USA",1572245,0,https://fursquared.com/
+FurSquared,"Milwaukee, WI, USA",43.0384245,-87.9229215,1790,2/20/2025,2/23/2025,1,"Milwaukee, WI, USA",1572245,0,https://fursquared.com/
 Further Confusion,"San Jose, CA, USA",37.32908,-121.88877,5276,January 2025 (expected),1/13/2025,1,"Bay Area, CA, USA",9666055,0,https://furtherconfusion.org/
 Furs Upon Malaysia,"Petaling Jaya, Malaysia",3.10393,101.64028,728,December 2024 (expected),12/8/2024,1,"Kuala Lumpur, Malaysia",7200000,0,https://www.furum.org/
 Furvana,"Ocean Shores, WA, USA",47.00727,-124.16244,1084,September 2024 (expected),9/8/2024,1,"Ocean Shores, WA, USA",5569,0,https://www.furvana.org/
 Furvester,"Stuttgart, Germany",48.49953,9.15019,639,New Year’s Eve 2024 (expected),1/1/2025,1,"Stuttgart, Germany",5300000,0,https://furvester.org/
 Futerkon,"Bocheniec, Poland",50.79417,20.32069,126,8/7/2024,8/11/2024,0,"Małogoszcz, Poland",4022,0,https://futerkon.pl
 Gateway FurMeet,"St. Louis, MO, USA",38.69378,-90.44919,744,3/15/2024,3/17/2024,1,"St. Louis, MO, USA",2807338,0,https://www.gatewayfurmeet.org/
-Get Out The Float,"Seaside, OR, USA",45.994150,-123.925720,0,2/2/2024,2/4/2024,1,"Seaside, OR, USA",7115,0,https://getoutthefloat.com/
+Get Out The Float,"Seaside, OR, USA",45.994150,-123.925720,149,2/6/2025,2/9/2025,1,"Seaside, OR, USA",7115,0,https://getoutthefloat.com/
 Gdakon,"Rumia, Poland",54.57279,18.38327,460,2/28/2024,3/3/2024,0,"Gdańsk, Poland",1080700,0,https://gdakon.org/
 Golden Leaves Con,"Hasliberg-Reuti, Switzerland",46.73313,8.20817,289,10/23/2024,10/27/2024,1,"Hasliberg-Reuti, Switzerland",1164,0,https://glc.furry.ch/
 Golden State Fur Con,"Irvine, CA, USA",33.67467,-117.86062,1815,4/5/2024,4/7/2024,1,"Los Angeles, CA, USA",13131431,0,https://gsfurcon.com/
@@ -76,11 +76,11 @@ Melbourne Furry Convention,"Melbourne, VIC, Australia",-37.80723,144.96146,150,2
 Mephit FurMeet,"Olive Branch, MS, USA",34.9670302,-89.7950251,591,8/30/2024,9/1/2024,1,"Memphis, TN, USA",1348260,0,https://www.mephitfurmeet.org/
 Midwest Furfest,"Rosemont, IL, USA",41.9809082,-87.8603978,15547,12/5/2024,12/8/2024,1,"Chicago, IL, USA",9533040,0,https://www.furfest.org/
 Motor City Furry Con,"Southfield, MI, USA",42.47612,-83.24501,1571,4/5/2024,4/7/2024,1,"Detroit, MI, USA",4292060,0,https://motorcityfurrycon.org/
-NordicFuzzCon,"Malmö, Sweden",55.607841,12.99448,3704,2/21/2024,2/25/2024,1,"Malmö, Sweden",749427,0,https://nordicfuzzcon.org/
+NordicFuzzCon,"Malmö, Sweden",55.607841,12.99448,3704,February 2025 (expected),2/23/2025,1,"Malmö, Sweden",749427,0,https://nordicfuzzcon.org/
 Örli Försztivál,"Gárdony, Hungary",47.1907727,18.5870896,131,June 2024 (expected),6/16/2024,0,"Gárdony, Hungary",10855,1,https://www.orli.hu/
 Painted Desert Fur Con,"Paradise Valley, AZ, USA",33.54134,-111.92806,1412,January 2025 (expected),1/5/2025,1,"Phoenix, AZ, USA",4857962,0,https://painteddesertfc.com/
 PAWcon,"San Jose, CA, USA",37.37169,-121.92258,1455,11/7/2024,11/10/2024,1,"Bay Area, CA, USA",9666055,0,https://pacanthro.org/
-Scotiacon,"Livingston, Scotland, UK",55.886378,-3.504046,482,2/2/2024,2/5/2024,1,"Livingston, Scotland, UK",56269,0,https://www.scotiacon.org.uk/
+Scotiacon,"Livingston, Scotland, UK",55.886378,-3.504046,1170,2/7/2025,2/10/2025,1,"Livingston, Scotland, UK",56269,0,https://www.scotiacon.org.uk/
 South Afrifur,"Krugersdorp, South Africa",-25.968117,27.8656,43,July 2024 (expected),7/8/2024,1,"Johannesburg, South Africa",10500500,0,https://south-afrifur.co.za/
 Southern Paws,"Amberley, New Zealand",-43.070412,172.743236,74,May 2024 (expected),5/11/2024,0,"Amberley, New Zealand",2340,1,https://southernpaws.org.nz/
 StratosFur,"Houston, TX, USA",29.94031,-95.395813,1001,5/31/2024,6/2/2024,0,"Houston, TX, USA",7122240,0,https://stratosfur.org/
