@@ -10,4 +10,8 @@ jobs:
     - name: Build JSON
       run: |
         ./convert_to_json.rb
-        ls -al
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: map-data
+        path: map-data.json
