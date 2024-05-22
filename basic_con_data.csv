@@ -1,4 +1,4 @@
-Name,Location,Location Latitude,Location Longitude,Last Attendance,Next Start Date,Next End Date,FCLR,Host Metro Area,Population of Host,Gimmick,Website
+Name,Location,Location Latitude,Location Longitude,Last Attendance,Next Start Date,Next End Date,FCLR,Host Metro Area,Population of Host,Camping,Website
 Alamo City Furry Invasion,"San Antonio, TX, USA",29.4288,-98.4925,1671,10/11/2024,10/13/2024,1,"San Antonio, TX, USA",2518036,0,https://www.furryinvasion.org/
 Another Furry Con,"Ontario, CA, USA",34.065505,-117.6090181,0,9/27/2024,9/29/2024,0,"Inland Empire, CA, USA",4599839,0,https://anotherfurrycon.com
 Anthro New England,"Boston, MA, USA",42.35108,-71.0703,4482,1/16/2025,1/19/2025,1,"Boston, MA, USA",4628910,0,https://www.anthronewengland.com/
@@ -8,7 +8,7 @@ Anthrocon,"Pittsburgh, PA, USA",40.44661,-79.99571,13644,7/4/2024,7/7/2024,1,"Pi
 AnthroExpo,"Oklahoma City, OK, USA",35.52801,-97.56692,1094,1/30/2025,2/2/2025,1,"Oklahoma City, OK, USA",1396445,0,https://www.anthroexpo.net/
 AnthrOhio,"Columbus, OH, USA",40.09983,-82.98668,1255,5/24/2024,5/26/2024,1,"Columbus, OH, USA",2078725,0,https://anthrohio.org/
 AnthroIrish,"Cork, Ireland",51.8986264,-8.4676017,131,8/2/2024,8/4/2024,0,"Cork, Ireland",305222,0,https://linktr.ee/anthroirish
-Aquatifur,"Wisconsin Dells, WI, USA",43.66518,-89.78405,560,11/8/2024,11/10/2024,1,"Wisconsin Dells, WI, USA",2678,1,https://aquatifur.com/
+Aquatifur,"Wisconsin Dells, WI, USA",43.66518,-89.78405,560,11/8/2024,11/10/2024,1,"Wisconsin Dells, WI, USA",2678,0,https://aquatifur.com/
 Argentina Fur Fiesta,"Buenos Aires, Argentina",-34.60909,-58.38266,427,8/16/2024,8/18/2024,1,"Buenos Aires, Argentina",15594428,0,https://new.furfiesta.com/
 Arizona Fur Con,"Mesa, AZ, USA",33.42121,-111.83118,1387,10/11/2024,10/13/2024,0,"Phoenix, AZ, USA",4857962,0,https://www.arizonafurcon.com/
 Aurawra,"Parramatta, NSW, Australia",-33.8122269,151.0024242,671,7/26/2024,7/28/2024,0,"Sydney, NSW, Australia",5450496,0,https://www.aurawra.org/

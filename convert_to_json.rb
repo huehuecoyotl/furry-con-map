@@ -52,7 +52,7 @@ basic_data[1..-1].each do |curr_con|
     curr_organizer[:end] = end_date.strftime "%d %b %Y"
     curr_organizer[:fclr] = (curr_con[7].to_i == 1)
     curr_organizer[:host_population] = curr_con[9].to_i
-    curr_organizer[:gimmick] = (curr_con[10].to_i == 1)
+    curr_organizer[:camping] = (curr_con[10].to_i == 1)
     curr_organizer[:website] = curr_con[11]
     organized_data << curr_organizer
 end
@@ -88,7 +88,7 @@ end
     times.delete 0
 
     s = geos.zip(times).collect{ |x| 1.0 / (x[0] * x[1]) }.reduce(0, :+)
-    pop = organized_data[i][:host_population] * (organized_data[i][:gimmick] ? 10000 : 1)
+    pop = organized_data[i][:host_population] * (organized_data[i][:camping] ? 10000 : 1)
 
     organized_data[i][:surprise_index] = s * organized_data[i][:attendance] / pop
 end
