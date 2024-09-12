@@ -27,15 +27,15 @@ CastleCon,"Horb am Neckar, Germany",48.44885,8.67317,71,June 2025 (expected),6/1
 ČeSFuR,"Bystřice nad Pernštejnem, Czech Republic",49.52341,16.26038,274,July 2025 (expected),7/4/2025,0,"Bystřice nad Pernštejnem, Czech Republic",8110,0,https://cesfur.org/
 Confuror,"Guadalajara, Jalisco, Mexico",20.673366,-103.388289,1964,10/10/2024,10/13/2024,1,"Guadalajara, Jalisco, Mexico",5002466,0,https://confuror.org/
 ConFuzzled,"Birmingham, England, UK",52.4522,-1.71724,2881,5/23/2025,5/27/2025,1,"Birmingham, England, UK",4332629,0,https://confuzzled.org.uk/
-DenFur,"Denver, CO, USA",39.77192,-104.80773,4232,8/23/2024,8/25/2024,1,"Denver, CO, USA",2932415,0,https://denfur.org/
-Dutch FurCon,"Groesbeek, The Netherlands",51.78539,5.93863,128,8/23/2024,8/26/2024,0,"Berg en Dal, The Netherlands",34714,0,https://dutchfurcon.com/
+DenFur,"Denver, CO, USA",39.77192,-104.80773,3623,August 2025 (expected),8/24/2025,1,"Denver, CO, USA",2932415,0,https://denfur.org/
+Dutch FurCon,"Groesbeek, The Netherlands",51.78539,5.93863,128,August 2025 (expected),8/25/2025,0,"Berg en Dal, The Netherlands",34714,0,https://dutchfurcon.com/
 EAST,"Suhl, Germany",50.61702,10.7233,902,9/17/2025,9/21/2025,0,"Suhl, Germany",37321,0,https://www.sachsenfurs.de/de/east/
 Eurofurence,"Berlin, Germany",52.47306,13.45876,3408,9/18/2024,9/21/2024,1,"Berlin, Germany",6004857,0,https://www.eurofurence.org/
 Fauntastic,"Montalieu-Vercieu, France",45.826928,5.419991,288,April 2025 (expected),4/1/2025,0,"Montalieu-Vercieu, France",3185,0,https://fauntastic.eu/
 FinFur Animus,"Tuusula, Finland",60.41218,25.03733,238,10/17/2024,10/20/2024,0,"Helsinki, Finland",1495271,0,https://animus.finfur.net/
 Flüüfff,"Brussels, Belgium",50.818036,4.400983,325,11/6/2024,11/11/2024,1,"Brussels, Belgium",2120000,0,https://fluufff.org/
-Fur The 'More,"Tysons Corner, VA, USA",38.93102,-77.24571,1572,March 2025 (expected),3/9/2025,1,"Washington, DC, USA",6216589,0,https://www.furthemore.org/
-FurCalvaDance,"Saint-Martin-des-Entrées, France",49.26618,-0.67327,160,March 2025 (expected),3/9/2025,0,"Bayeux, France",73516,0,https://www.normandifurs.fr/furcalvadance-fcd/
+Fur The 'More,"Tysons Corner, VA, USA",38.93102,-77.24571,1572,3/7/2025,3/9/2025,1,"Washington, DC, USA",6216589,0,https://www.furthemore.org/
+FurCalvaDance,"Saint-Martin-des-Entrées, France",49.26618,-0.67327,160,6/6/2025,6/10/2025,0,"Bayeux, France",73516,0,https://www.normandifurs.fr/furcalvadance-fcd/
 FurCamp,"Intervales State Park, Brasil",-24.265274,-48.4142704,50,February 2025 (Expected),2/11/2025,0,"Ribeirão Grande, Brasil",7679,1,https://www.furcamp.com.br
 FurCan,"Puebla City, Puebla, Mexico",18.95202,-98.14901,430,7/18/2025,7/20/2025,0,"Puebla City, Puebla, Mexico",3250000,0,https://furcan.com.mx/
 Furcation,"Brean, England, UK",51.2743,-3.01206,592,11/22/2024,11/25/2024,0,"Burnham-on-Sea, England, UK",19576,1,https://www.furcation.org.uk/
@@ -66,7 +66,7 @@ Furry Weekend Holland,"Baarlo, Netherlands",51.3429109,6.1063531,100,4/25/2025,4
 Furrydelphia,"Philadelphia, PA, USA",39.95729,-75.1673,2510,9/8/2024,9/11/2024,1,"Philadelphia, PA, USA",6096120,0,https://www.furrydelphia.org/
 FurryEST,"Karala, Estonia",58.9337401,24.6597199,80,July 2025 (expected),7/6/2025,0,"Karala, Estonia",31413,1,https://furryest.org/
 FurryJoA,"Goyang, South Korea",37.665087,126.742267,1133,2/22/2025,2/23/2025,0,"Seoul, South Korea",26037000,0,https://www.furryjoa.com/
-Fursonacon,"Virginia Beach, VA, USA",36.8434,-76.18004,957,8/29/2024,9/1/2024,1,"Virginia Beach, VA, USA",1725246,0,https://fursonacon.com/
+Fursonacon,"Virginia Beach, VA, USA",36.8434,-76.18004,1285,August 2025 (expected),8/31/2025,1,"Virginia Beach, VA, USA",1725246,0,https://fursonacon.com/
 FurSquared,"Milwaukee, WI, USA",43.0384245,-87.9229215,1790,2/20/2025,2/23/2025,1,"Milwaukee, WI, USA",1572245,0,https://fursquared.com/
 Furtastic,"Grenå, Denmark",56.5307549,10.8091281,80,July 2025 (expected),7/11/2025,0,"Grenå, Denmark",14179,0,https://new.furtastic.dk/
 Further Confusion,"San Jose, CA, USA",37.32908,-121.88877,5276,1/16/2025,1/20/2025,1,"Bay Area, CA, USA",9666055,0,https://furtherconfusion.org/
@@ -91,9 +91,9 @@ Kemocon,"Kawasaki, Kanagawa, Japan",35.466690063,139.621841431,599,11/8/2024,11/
 KRAZ,"Boskovice, Czech Republic",49.494742,16.685719,102,May 2025 (expected),5/4/2025,0,"Boskovice, Czech Republic",11661,1,https://www.kraz.eu/
 Las Vegas Fur Con,"Las Vegas, NV, USA",36.107581,-115.156337,2141,March 2025 (expected),3/30/2025,0,"Las Vegas, NV, USA",2265461,0,https://lasvegasfurcon.org/
 Little Island Fur Con,Singapore,1.33154,103.73934,306,July 2025 (expected),7/6/2025,1,Singapore,5638700,0,https://www.littleislandfur.com/
-Megaplex,"Orlando, FL, USA",28.42695,-81.46817,5189,8/30/2024,9/1/2024,1,"Orlando, FL, USA",2387138,0,https://www.megaplexcon.org/
+Megaplex,"Orlando, FL, USA",28.42695,-81.46817,7202,8/30/2025,9/1/2025,1,"Orlando, FL, USA",2387138,0,https://www.megaplexcon.org/
 Melbourne Furry Convention,"Melbourne, VIC, Australia",-37.80723,144.96146,464,2/21/2025,2/23/2025,0,"Melbourne, VIC, Australia",4936349,0,https://www.melbfurcon.com/
-Mephit FurMeet,"Olive Branch, MS, USA",34.9670302,-89.7950251,591,8/30/2024,9/1/2024,1,"Memphis, TN, USA",1348260,0,https://www.mephitfurmeet.org/
+Mephit FurMeet,"Olive Branch, MS, USA",34.9670302,-89.7950251,774,August 2025 (expected),8/31/2025,1,"Memphis, TN, USA",1348260,0,https://www.mephitfurmeet.org/
 Mephit Mini Con,"Kirchen (Sieg), Germany",50.8267001,7.8785527,20,5/29/2025,6/1/2025,0,"Kirchen (Sieg), Germany",8431,0,https://www.mephitminicon.de/
 Midwest Furfest,"Rosemont, IL, USA",41.9809082,-87.8603978,15547,12/5/2024,12/8/2024,1,"Chicago, IL, USA",9533040,0,https://www.furfest.org/
 MidWinter Frolic,"Whitewater State Park, MN, USA",44.0539779,-92.06021,79,1/17/2025,1/19/2025,0,"Altura, MN, USA",471,1,https://www.midwinterfrolic.org/
